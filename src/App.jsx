@@ -1,10 +1,10 @@
-
+import RegistrationDialog from "./components/RegistrationDialog"
 
 function App() {
 
   return (
     <>
-
+      <RegistrationDialog />
     </>
   )
 }
